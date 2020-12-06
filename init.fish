@@ -1,1 +1,0 @@
-fisher install edc/bass
